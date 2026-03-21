@@ -1,6 +1,6 @@
 {
-  "proxy_address": "na7.holy.gg",
-  "proxy_port": "26269",
+  "proxy_address": "147.93.185.104",
+  "proxy_port": "5555",
   "certificate": "-----BEGIN CERTIFICATE-----
 MIIDNTCCAh2gAwIBAgIUSd1wjkIXBnBuKivjrPUgcAhB8aAwDQYJKoZIhvcNAQEL
 BQAwKDESMBAGA1UEAwwJbWl0bXByb3h5MRIwEAYDVQQKDAltaXRtcHJveHkwHhcN
