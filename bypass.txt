@@ -1,5 +1,5 @@
 {
-  "proxy_address": "file.yorzen.net",
+  "proxy_address": "62.84.184.102",
   "proxy_port": "6060",
   "certificate": "-----BEGIN CERTIFICATE-----
 MIIDNTCCAh2gAwIBAgIUTnehhY/xYtY2waT9XdgVxpJWn5IwDQYJKoZIhvcNAQEL
